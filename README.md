@@ -1,7 +1,5 @@
-# typescript-canvas-template
-
 ## What is this
-A basic typescript template with webpack setup to quickly start a canvas development project
+A basic typescript template with webpack setup to quickly start an HTML5 canvas development project.
 
 ## Setup
 Just checkout or download the branch and run:
