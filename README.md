@@ -48,3 +48,9 @@ This will start up a `webpack-dev-server` with auto reloading and watch on. Now 
 ### Contribution
 
 If you'd like to contribute to the project, feel free to submit pull requests or open issues. Contributions are welcome!
+
+
+### References
+
+https://github.com/christopher4lis/canvas-boilerplate
+https://github.com/JeremySayers/typescript-canvas-template
