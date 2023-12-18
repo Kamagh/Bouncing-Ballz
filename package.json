@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "Jeremy Sayers",
+  "author": "Kamo Aghbalyan",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^8.0.0",
